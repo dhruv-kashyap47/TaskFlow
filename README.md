@@ -1,34 +1,30 @@
 TaskFlow Pro
 
-A simple yet powerful Task Management System built using Java and MySQL.
-This project was created to practice JDBC (Java Database Connectivity), Object-Oriented Programming (OOP), and database operations like CRUD (Create, Read, Update, Delete).
+A simple Task Management System built using Java and MySQL.
+This project demonstrates JDBC (Java Database Connectivity), Object-Oriented Programming (OOP), and database CRUD operations (Create, Read, Update, Delete).
 
-🚀 Features - 
+🚀 Features
 
-✅ Add new tasks with title & description
+-> Add new tasks with title & description
 
-✏️ Update existing tasks
+-> Update existing tasks
 
-❌ Delete tasks by ID
+-> Delete tasks by ID
 
-📋 View all tasks in a neat list
+-> View all tasks in a list
 
-💾 Uses MySQL database for storing tasks
+-> Data stored in MySQL database
 
-🛠️ Tech Stack - 
+🛠️ Tech Stack
 
-Java (Core + JDBC) – Backend logic
+-> Java (Core + JDBC) – Application logic
 
-MySQL – Database for storing tasks
+-> MySQL – Database
 
-IntelliJ IDEA – IDE used for development
+-> Spring Boot (Java) – Backend framework
+
+-> IntelliJ IDEA – Development environment
 
 📂 Project Structure
 
-TaskFlow/
-│── src/
-│   ├── Main.java         # Entry point
-│   ├── Database.java     # Handles DB connection
-│   ├── Task.java         # Task model (POJO)
-│   └── TaskDAO.java      # CRUD operations
-│── README.md             # Project documentation
+<img width="2048" height="2048" alt="Gemini_Generated_Image_1gdg1s1gdg1s1gdg" src="https://github.com/user-attachments/assets/611e2f01-a849-410b-b442-cde7de7f1276" />
