@@ -1,4 +1,4 @@
-TaskFlow Pro
+TaskFlow
 
 A simple Task Management System built using Java and MySQL.
 This project demonstrates JDBC (Java Database Connectivity), Object-Oriented Programming (OOP), and database CRUD operations (Create, Read, Update, Delete).
