@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: taskflow-pro
+  profiles:
+    active: h2
+
+server:
+  port: 8080
+
+# Common swagger config
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui.html

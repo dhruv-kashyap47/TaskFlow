@@ -1,0 +1,14 @@
+.idea/
+.target/
+target/
+*.iml
+*.class
+*.log
+logs/
+*.jar
+*.war
+*.db
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/.vscode/
+.DS_Store
